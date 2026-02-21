@@ -54,6 +54,7 @@
 * [ ] Make animated logo for header
 * [ ] Forums?
 * [ ] Redesign this page
+* [ ] maybe make a youtube channel about skelepedia 
 * [ ] I don't know, I'll think of more later
 
 <br />
