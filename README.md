@@ -56,6 +56,7 @@
 * [ ] Redesign this page
 * [ ] maybe make a youtube channel about skelepedia 
 * [ ] I don't know, I'll think of more later
+* [ ] git badge that does the latest addition to the encyclopedia
 
 <br />
 <br />
