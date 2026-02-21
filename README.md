@@ -19,7 +19,7 @@
 
 
 **Its been a life goal of mine**
- * I want the world to have more public information avaiable to those who cant afford it or rather cant access it.
+ * I want the world to have more public information available to those who cant afford it or rather cant access it.
  * I would also like the world to see my perspective on life
  * Its also a way for me to leave something meaninful behind when my time comes. *im not dying anytime soon of course* 
 
