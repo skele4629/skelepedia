@@ -1,7 +1,11 @@
 <img width="2299" height="864" alt="banner(8)" src="https://github.com/user-attachments/assets/b6a95f81-7f95-4393-b7b3-2692df4592d5" />
-
- ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/skele4629/skelepedia) 
+<div align="center">
  
+ ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/skele4629/skelepedia) 
+ ![Static Badge](https://img.shields.io/badge/Version-1.0-blue?style=flat)
+ ![Static Badge](https://img.shields.io/badge/Free-for%20all-blue?style=flat)
+
+</div>
 ⭐ Star me on GitHub — your support motivates me a lot ty. 🙏
  
 # what the flip is skelepedia
