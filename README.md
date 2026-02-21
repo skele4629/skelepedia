@@ -7,8 +7,10 @@
 ![Static Badge](https://img.shields.io/badge/Free-for%20all-blue?style=flat)
 
 </div>
-
+<div align="center">
 ⭐ Star me on GitHub — your support motivates me a lot, ty. 🙏
+</div>
+
 
 # What the flip is Skelepedia?
 **Skelepedia is my autodidact encyclopedia.**
