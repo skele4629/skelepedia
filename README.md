@@ -4,6 +4,7 @@
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/skele4629/skelepedia)
 ![Static Badge](https://img.shields.io/badge/Version-1.0-blue?style=flat)
+![GitHub Repo stars](https://img.shields.io/github/stars/skele4629/skelepedia?style=flat-square)
 ![Static Badge](https://img.shields.io/badge/Free-for%20all-blue?style=flat)
 
 </div>
